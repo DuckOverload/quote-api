@@ -14,3 +14,7 @@ spring:
 openai:
   api:
     key: ${OPENAI_API_KEY}
+
+server:
+  error:
+    include-stacktrace: on_param
