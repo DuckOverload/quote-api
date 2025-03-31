@@ -3,7 +3,6 @@ package duck.overload.quoteapi.controller;
 import duck.overload.quoteapi.dto.DailyMotivationalQuoteDto;
 import duck.overload.quoteapi.exception.QuoteNotFoundException;
 import duck.overload.quoteapi.service.DailyMotivationalQuotesService;
-import org.springframework.cglib.core.Local;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

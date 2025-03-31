@@ -46,7 +46,7 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
-			<groupId>duck.overload.openai</groupId>
+			<groupId>duck.overload</groupId>
 			<artifactId>openai</artifactId>
 			<version>1.0-SNAPSHOT</version>
 		</dependency>
