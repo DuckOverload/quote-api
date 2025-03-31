@@ -26,6 +26,15 @@
 		<tag/>
 		<url/>
 	</scm>
+
+    <repositories>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages - openai-java</name>
+            <url>https://maven.pkg.github.com/DuckOverload/openai-java</url>
+        </repository>
+    </repositories>
+
 	<properties>
 		<java.version>21</java.version>
 	</properties>
